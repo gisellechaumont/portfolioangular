@@ -2,6 +2,11 @@
 
 Es el proyecto del curso de [Fernando Herrera](https://www.udemy.com/course/html-hacia-angular/)
 
+<img width="950" alt="Captura1" src="https://user-images.githubusercontent.com/69175205/140399017-f3deff94-0c2c-409b-b12a-ec35cace31d6.PNG">
+<img width="944" alt="Captura3" src="https://user-images.githubusercontent.com/69175205/140399031-a1ee39d9-eddf-4905-961b-c1a9a137a74d.PNG">
+<img width="940" alt="Captura2" src="https://user-images.githubusercontent.com/69175205/140399034-445f4022-8692-4553-b3c7-b0b0ea5fc6e6.PNG">
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
 ## Development server
