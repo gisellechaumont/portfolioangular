@@ -1,6 +1,6 @@
 # Portafolio
 
-Es un proyecto del curso de Fernando Herrera https://www.udemy.com/course/html-hacia-angular/
+Es el proyecto del curso de [Fernando Herrera](https://www.udemy.com/course/html-hacia-angular/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
